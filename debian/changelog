@@ -1,3 +1,17 @@
+wi-fi-access-point-and-station-mode (0.7.3-2) bullseye; urgency=medium
+
+  * Updated master workflow files
+  * Updated master workflow files
+  * [pre-commit.ci] pre-commit autoupdate (#58)
+  * Build for arm64
+  * Point to fork Debian package building image
+  * Point to forked Debian package building action
+  * Revert "Point to forked Debian package building action"
+  * Point to forked Debian package building action
+  * Point to forked Debian package building action arm64 branch
+
+ -- pi-top <deb-maintainers@pi-top.com>  Tue, 08 Nov 2022 13:01:16 +0000
+
 wi-fi-access-point-and-station-mode (0.7.3-1) bullseye; urgency=medium
 
   * Check if file exists before deleting
